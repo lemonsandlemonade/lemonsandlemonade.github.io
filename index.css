@@ -1,8 +1,6 @@
 body {
-	
-    background-height: 200px;
-    background-color: cyan; /* For browsers that do not support gradients */
-    background-gradient: linear-gradient(purple, cyan, blue;) /* Standard syntax (must be last) */
+background-color: cyan;
+background-image: linear-gradient(purple, cyan, blue);
 }
 
 h1{
