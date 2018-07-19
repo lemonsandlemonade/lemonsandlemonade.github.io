@@ -2,11 +2,18 @@ body{
 background-color: #0099ff;
 }
 
+grad1 {
+    height: 200px;
+    background: red; /* For browsers that do not support gradients */
+    background: linear-gradient(purple, cyan, blue; /* Standard syntax (must be last) */
+}
+
 h1{
 color: gold;
 border-style: dotted;
 border-width: 7px;
 border-color: navy;
+border-spacing: 25px
 }
 
 h2{
