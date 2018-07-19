@@ -1,11 +1,9 @@
-body{
-background-color: #0099ff;
-}
+
 
 grad1 {
     height: 200px;
-    background: red; /* For browsers that do not support gradients */
-    background: linear-gradient(purple, cyan, blue; /* Standard syntax (must be last) */
+    background: cyan; /* For browsers that do not support gradients */
+    background: linear-gradient(purple, cyan, blue;) /* Standard syntax (must be last) */
 }
 
 h1{
