@@ -1,13 +1,13 @@
 body {
 background-color: cyan;
-background-image: linear-gradient(purple, cyan, blue);
+background-image: linear-gradient(cyan, blue);
 }
 
 h1{
 color: gold;
 border-style: dotted;
-border-width: 25px;
-border-color: navy;
+border-width: 10px;
+border-color: plum;
 border-spacing: 25px
 }
 
@@ -25,7 +25,7 @@ color: white;
 
 li{
 	display: inline;
-	color: #ffd9b3;
+	color: #ffcc00;
 }
 
 hr{
