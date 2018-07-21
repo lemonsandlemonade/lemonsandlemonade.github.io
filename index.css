@@ -25,6 +25,14 @@ color: white;
 font-family: lucida grande
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
 li{
 	display: inline;
 	color: #ffcc00;
@@ -37,6 +45,11 @@ li a {
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
 
 hr{
 	color:#000099;
