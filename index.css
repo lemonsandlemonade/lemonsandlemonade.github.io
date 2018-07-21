@@ -13,6 +13,7 @@ border-spacing: 25px
 
 h2{
 color: gold;
+font-family: impact
 }
 
 h3{
@@ -21,12 +22,21 @@ color:gold;
 
 p{
 color: white;
+font-family: lucida grande
 }
 
 li{
 	display: inline;
 	color: #ffcc00;
+	float: left
 }
+
+li a {
+	display: block;
+	color: rose;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
 
 hr{
 	color:#000099;
