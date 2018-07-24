@@ -1,5 +1,6 @@
 body {
 background-color: cyan;
+height: 800px;
 background-image: linear-gradient(cyan, blue);
 }
 
