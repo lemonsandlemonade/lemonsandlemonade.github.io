@@ -1,20 +1,20 @@
 body {
 background-color: cyan;
-height: 800px;
-background-image: linear-gradient(cyan, blue);
+height: 2000px;
+background-image: linear-gradient(cyan, blue, purple);
 }
 
 h1{
 color: gold;
 border-style: dotted;
 border-width: 10px;
-border-color: plum;
+border-color: #cc00ff;
 border-spacing: 25px
 }
 
 h2{
 color: gold;
-font-family: tahoma
+font-family: Verdana
 }
 
 h3{
@@ -31,27 +31,27 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: gold;
 }
 
 li{
 	display: inline;
-	color: #ffcc00;
+	color: indigo;
 	float: left
 }
 
 li a {
 	display: block;
-	color: rose;
+	color: #cc00ff;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: blue;
 }
 
 hr{
-	color:#000099;
+	color:pink;
 }
